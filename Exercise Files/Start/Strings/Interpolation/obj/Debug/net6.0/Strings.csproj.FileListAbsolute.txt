@@ -1,0 +1,15 @@
+C:\Users\ShaZam\Documents\Code\cSharp\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Strings\Interpolation\bin\Debug\net6.0\Strings.exe
+C:\Users\ShaZam\Documents\Code\cSharp\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Strings\Interpolation\bin\Debug\net6.0\Strings.deps.json
+C:\Users\ShaZam\Documents\Code\cSharp\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Strings\Interpolation\bin\Debug\net6.0\Strings.runtimeconfig.json
+C:\Users\ShaZam\Documents\Code\cSharp\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Strings\Interpolation\bin\Debug\net6.0\Strings.dll
+C:\Users\ShaZam\Documents\Code\cSharp\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Strings\Interpolation\bin\Debug\net6.0\Strings.pdb
+C:\Users\ShaZam\Documents\Code\cSharp\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Strings\Interpolation\obj\Debug\net6.0\Strings.csproj.AssemblyReference.cache
+C:\Users\ShaZam\Documents\Code\cSharp\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Strings\Interpolation\obj\Debug\net6.0\Strings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ShaZam\Documents\Code\cSharp\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Strings\Interpolation\obj\Debug\net6.0\Strings.AssemblyInfoInputs.cache
+C:\Users\ShaZam\Documents\Code\cSharp\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Strings\Interpolation\obj\Debug\net6.0\Strings.AssemblyInfo.cs
+C:\Users\ShaZam\Documents\Code\cSharp\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Strings\Interpolation\obj\Debug\net6.0\Strings.csproj.CoreCompileInputs.cache
+C:\Users\ShaZam\Documents\Code\cSharp\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Strings\Interpolation\obj\Debug\net6.0\Strings.dll
+C:\Users\ShaZam\Documents\Code\cSharp\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Strings\Interpolation\obj\Debug\net6.0\refint\Strings.dll
+C:\Users\ShaZam\Documents\Code\cSharp\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Strings\Interpolation\obj\Debug\net6.0\Strings.pdb
+C:\Users\ShaZam\Documents\Code\cSharp\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Strings\Interpolation\obj\Debug\net6.0\Strings.genruntimeconfig.cache
+C:\Users\ShaZam\Documents\Code\cSharp\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Strings\Interpolation\obj\Debug\net6.0\ref\Strings.dll

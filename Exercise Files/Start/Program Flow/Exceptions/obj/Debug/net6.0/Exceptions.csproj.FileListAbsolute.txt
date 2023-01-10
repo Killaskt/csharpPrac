@@ -1,0 +1,5 @@
+C:\Users\ShaZam\Documents\Code\cSharp\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Program Flow\Exceptions\obj\Debug\net6.0\Exceptions.csproj.AssemblyReference.cache
+C:\Users\ShaZam\Documents\Code\cSharp\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Program Flow\Exceptions\obj\Debug\net6.0\Exceptions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ShaZam\Documents\Code\cSharp\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Program Flow\Exceptions\obj\Debug\net6.0\Exceptions.AssemblyInfoInputs.cache
+C:\Users\ShaZam\Documents\Code\cSharp\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Program Flow\Exceptions\obj\Debug\net6.0\Exceptions.AssemblyInfo.cs
+C:\Users\ShaZam\Documents\Code\cSharp\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Program Flow\Exceptions\obj\Debug\net6.0\Exceptions.csproj.CoreCompileInputs.cache

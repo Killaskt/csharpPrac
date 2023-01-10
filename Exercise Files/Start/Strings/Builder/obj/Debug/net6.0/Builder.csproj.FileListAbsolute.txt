@@ -1,0 +1,15 @@
+C:\Users\ShaZam\Documents\Code\cSharp\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Strings\Builder\bin\Debug\net6.0\Builder.exe
+C:\Users\ShaZam\Documents\Code\cSharp\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Strings\Builder\bin\Debug\net6.0\Builder.deps.json
+C:\Users\ShaZam\Documents\Code\cSharp\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Strings\Builder\bin\Debug\net6.0\Builder.runtimeconfig.json
+C:\Users\ShaZam\Documents\Code\cSharp\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Strings\Builder\bin\Debug\net6.0\Builder.dll
+C:\Users\ShaZam\Documents\Code\cSharp\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Strings\Builder\bin\Debug\net6.0\Builder.pdb
+C:\Users\ShaZam\Documents\Code\cSharp\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Strings\Builder\obj\Debug\net6.0\Builder.csproj.AssemblyReference.cache
+C:\Users\ShaZam\Documents\Code\cSharp\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Strings\Builder\obj\Debug\net6.0\Builder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ShaZam\Documents\Code\cSharp\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Strings\Builder\obj\Debug\net6.0\Builder.AssemblyInfoInputs.cache
+C:\Users\ShaZam\Documents\Code\cSharp\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Strings\Builder\obj\Debug\net6.0\Builder.AssemblyInfo.cs
+C:\Users\ShaZam\Documents\Code\cSharp\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Strings\Builder\obj\Debug\net6.0\Builder.csproj.CoreCompileInputs.cache
+C:\Users\ShaZam\Documents\Code\cSharp\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Strings\Builder\obj\Debug\net6.0\Builder.dll
+C:\Users\ShaZam\Documents\Code\cSharp\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Strings\Builder\obj\Debug\net6.0\refint\Builder.dll
+C:\Users\ShaZam\Documents\Code\cSharp\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Strings\Builder\obj\Debug\net6.0\Builder.pdb
+C:\Users\ShaZam\Documents\Code\cSharp\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Strings\Builder\obj\Debug\net6.0\Builder.genruntimeconfig.cache
+C:\Users\ShaZam\Documents\Code\cSharp\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Strings\Builder\obj\Debug\net6.0\ref\Builder.dll
