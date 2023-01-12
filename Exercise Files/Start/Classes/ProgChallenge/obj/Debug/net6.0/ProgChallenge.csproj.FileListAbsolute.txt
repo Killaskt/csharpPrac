@@ -1,0 +1,15 @@
+C:\Users\ShaZam\Documents\Code\cSharp\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Classes\ProgChallenge\obj\Debug\net6.0\ProgChallenge.csproj.AssemblyReference.cache
+C:\Users\ShaZam\Documents\Code\cSharp\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Classes\ProgChallenge\obj\Debug\net6.0\ProgChallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ShaZam\Documents\Code\cSharp\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Classes\ProgChallenge\obj\Debug\net6.0\ProgChallenge.AssemblyInfoInputs.cache
+C:\Users\ShaZam\Documents\Code\cSharp\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Classes\ProgChallenge\obj\Debug\net6.0\ProgChallenge.AssemblyInfo.cs
+C:\Users\ShaZam\Documents\Code\cSharp\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Classes\ProgChallenge\obj\Debug\net6.0\ProgChallenge.csproj.CoreCompileInputs.cache
+C:\Users\ShaZam\Documents\Code\cSharp\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Classes\ProgChallenge\bin\Debug\net6.0\ProgChallenge.exe
+C:\Users\ShaZam\Documents\Code\cSharp\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Classes\ProgChallenge\bin\Debug\net6.0\ProgChallenge.deps.json
+C:\Users\ShaZam\Documents\Code\cSharp\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Classes\ProgChallenge\bin\Debug\net6.0\ProgChallenge.runtimeconfig.json
+C:\Users\ShaZam\Documents\Code\cSharp\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Classes\ProgChallenge\bin\Debug\net6.0\ProgChallenge.dll
+C:\Users\ShaZam\Documents\Code\cSharp\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Classes\ProgChallenge\bin\Debug\net6.0\ProgChallenge.pdb
+C:\Users\ShaZam\Documents\Code\cSharp\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Classes\ProgChallenge\obj\Debug\net6.0\ProgChallenge.dll
+C:\Users\ShaZam\Documents\Code\cSharp\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Classes\ProgChallenge\obj\Debug\net6.0\refint\ProgChallenge.dll
+C:\Users\ShaZam\Documents\Code\cSharp\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Classes\ProgChallenge\obj\Debug\net6.0\ProgChallenge.pdb
+C:\Users\ShaZam\Documents\Code\cSharp\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Classes\ProgChallenge\obj\Debug\net6.0\ProgChallenge.genruntimeconfig.cache
+C:\Users\ShaZam\Documents\Code\cSharp\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Classes\ProgChallenge\obj\Debug\net6.0\ref\ProgChallenge.dll
